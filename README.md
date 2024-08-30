@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jdzF8kTtw2)
@@ -58,3 +59,6 @@ We welcome contributions! If you have ideas for enhancements or find any issues,
 This project is licensed under the [MIT License](LICENSE).
 
 Happy Coding! 🚀
+=======
+# Three-tier-applicatio
+ cae9815a17305002cd91cf2804b6ca3b3102e5f6
